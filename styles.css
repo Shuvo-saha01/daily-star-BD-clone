@@ -58,3 +58,21 @@
     width: 10em;
     margin-top: 20em;
 }
+
+#life{
+    background-color: #344054;
+}
+.life-o{
+    background-color: #E26737;
+}
+.life{
+    background-color: #344054; 
+}
+
+#tech{
+    background-color: #EAECF0;
+}
+
+.tech{
+    background-color: #EAECF0;
+}
