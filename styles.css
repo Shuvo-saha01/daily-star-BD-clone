@@ -2,6 +2,11 @@
 .nav-bar{
     display: flex;
 }
+.nav-date{
+    position: absolute;
+    left: 10em;
+    top: 1em;
+}
 
 .offbtn{
     font-size: 3em;
@@ -12,8 +17,9 @@
 } 
 
 .nav-left{
-    display: flex;
-    margin-right: auto;
+    position: absolute;
+    left: 1em;
+    top: 1em;
 }
 .nav-t{
     text-align: center;
